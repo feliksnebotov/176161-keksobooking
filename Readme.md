@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Феликс Неботов](https://up.htmlacademy.ru/javascript/12/user/176161).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Сальников](https://htmlacademy.ru/profile/id24537).
 
 ---
 
